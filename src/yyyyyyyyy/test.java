@@ -17,4 +17,7 @@ public class test {
 			System.out.println("d");
 		}
 	}
+	public void ddd(){
+		int a = 1;
+	}
 }
